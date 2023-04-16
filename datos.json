@@ -1,0 +1,1459 @@
+{
+"CODIGOS":[
+ {
+  "#": 1,
+  "Provincias": "AZUAY",
+  "CIUDAD": "28 DE MAYO (SAN JOSE DE YACUAMBI)",
+  "GENERO": "F",
+  "PAIS DE ORIGEN": "AFGANISTAN",
+  "Meses": "ENERO",
+  "Año": 2010,
+  "SI\/NO": "Si",
+  "ESTADO": "Activo",
+  "ESTADO CIVIL": "Soltero",
+  "INSTRUCCIÓN": "Analfabeto",
+  "OCUPACION": "Empleado Privado",
+  "Materias": "Civil",
+  "SERVICIOS FAMILIA": "Alimentos",
+  "Etnia:": "Mestiza\/o",
+  "Zona ": "Urbana",
+  "Nivel de ingresos": 0,
+  "TIPO DE USUARIO": "Actor\/a",
+  "Tipo de Patrocinio": "Nuevo",
+  "Tipo de judicatura": "Juzgado",
+  "CJGA": "Consultorio Jurídico Gratuito de la Pontificia Universidad Católica del Ecuador ",
+  "Línea de servicios": "Civil",
+  "Derivado por": "Defensoría Pública",
+  "Estado de la causa derivada": "En proceso"
+ },
+ {
+  "#": 2,
+  "Provincias": "BOLÍVAR",
+  "CIUDAD": "ALAMOR",
+  "GENERO": "M",
+  "PAIS DE ORIGEN": "ALBANIA",
+  "Meses": "FEBRERO",
+  "Año": 2011,
+  "SI\/NO": "No",
+  "ESTADO": "Resuelto",
+  "ESTADO CIVIL": "Casado",
+  "INSTRUCCIÓN": "Prescolar",
+  "OCUPACION": "Cuenta propia ",
+  "Materias": "Familia, Mujer, Niñez y Adolescencia",
+  "SERVICIOS FAMILIA": "Alimentos congruos",
+  "Etnia:": "Montubia\/o",
+  "Zona ": "Rural",
+  "Nivel de ingresos": "< 1 SBU",
+  "TIPO DE USUARIO": "Denunciante",
+  "Tipo de Patrocinio": "Seguimiento",
+  "Tipo de judicatura": "Tribunal",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Estatal de Bolívar",
+  "Línea de servicios": "Familia, Mujer, Niñez y Adolescencia",
+  "Derivado por": "Consultorio Jurídico Gratuito",
+  "Estado de la causa derivada": "Falta de documentación"
+ },
+ {
+  "#": 3,
+  "Provincias": "CAÑAR",
+  "CIUDAD": "ALAUSI",
+  "GENERO": "LGBTI",
+  "PAIS DE ORIGEN": "ALEMANIA",
+  "Meses": "MARZO",
+  "Año": 2012,
+  "ESTADO": "Inactivo",
+  "ESTADO CIVIL": "Unión de hecho",
+  "INSTRUCCIÓN": "Primaria",
+  "OCUPACION": "Jornalero o peón",
+  "Materias": "Constitucional",
+  "SERVICIOS FAMILIA": "Alimentos internacionales",
+  "Etnia:": "Afroecuatoriano\/Afrodescendiente",
+  "Zona ": "No delimitada en frontera",
+  "Nivel de ingresos": "1 SBU",
+  "TIPO DE USUARIO": "Denunciado",
+  "Tipo de judicatura": "Sala de la Corte",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica \"Ambato\"",
+  "Línea de servicios": "Constitucional",
+  "Derivado por": "Juzgado o Unidad Judicial",
+  "Estado de la causa derivada": "Usuario no asistió"
+ },
+ {
+  "#": 4,
+  "Provincias": "CARCHI",
+  "CIUDAD": "ALFREDO BAQUERIZO MORENO (JUJAN)",
+  "GENERO": "OTROS",
+  "PAIS DE ORIGEN": "ANDORRA",
+  "Meses": "ABRIL",
+  "Año": 2013,
+  "ESTADO CIVIL": "Separado",
+  "INSTRUCCIÓN": "Secundaria",
+  "OCUPACION": "Empleado u obrero del Estado, Municipio o Consejo Provincial",
+  "Materias": "Inquilinato",
+  "SERVICIOS FAMILIA": "Alimentos para mujer embarazada",
+  "Etnia:": "Indígena",
+  "Nivel de ingresos": "2 SBU",
+  "TIPO DE USUARIO": "Demandado\/a",
+  "Tipo de judicatura": "Unidad judicial",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Internacional SEK",
+  "Línea de servicios": "Inquilinato",
+  "Derivado por": "Otros",
+  "Estado de la causa derivada": "Desistimiento de la causa"
+ },
+ {
+  "#": 5,
+  "Provincias": "CHIMBORAZO",
+  "CIUDAD": "AMALUZA",
+  "PAIS DE ORIGEN": "ANGOLA",
+  "Meses": "MAYO",
+  "Año": 2014,
+  "ESTADO CIVIL": "Viudo",
+  "INSTRUCCIÓN": "Superior",
+  "OCUPACION": "No declarado",
+  "Materias": "Laboral",
+  "SERVICIOS FAMILIA": "Incidente de aumento de pensiones alimenticias",
+  "Etnia:": "Blanco",
+  "Nivel de ingresos": "3 SBU",
+  "TIPO DE USUARIO": "Víctima",
+  "Tipo de judicatura": "Inspectoría",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad San Gregorio de Portoviejo",
+  "Línea de servicios": "Laboral",
+  "Derivado por": "No",
+  "Estado de la causa derivada": "Archivo"
+ },
+ {
+  "#": 6,
+  "Provincias": "COTOPAXI",
+  "CIUDAD": "AMBATO",
+  "PAIS DE ORIGEN": "ANGUILA",
+  "Meses": "JUNIO",
+  "Año": 2015,
+  "ESTADO CIVIL": "Divorciado",
+  "INSTRUCCIÓN": "Postgrado",
+  "OCUPACION": "Empleado doméstico",
+  "Materias": "Movilidad Humana",
+  "SERVICIOS FAMILIA": "Incidente de rebaja de pensiones alimenticias",
+  "Etnia:": "Otro",
+  "Nivel de ingresos": "4 SBU",
+  "TIPO DE USUARIO": "Procesado",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica de Ambato",
+  "Línea de servicios": "Movilidad Humana",
+  "Estado de la causa derivada": "Pasivo"
+ },
+ {
+  "#": 7,
+  "Provincias": "EL ORO",
+  "CIUDAD": "ARAJUNO",
+  "PAIS DE ORIGEN": "MACEDONIA",
+  "Meses": "JULIO",
+  "Año": 2016,
+  "INSTRUCCIÓN": "Doctorado",
+  "OCUPACION": "Patrono",
+  "Materias": "Penal ",
+  "SERVICIOS FAMILIA": "Autorización de salida del país. ",
+  "Etnia:": "Shuar",
+  "Nivel de ingresos": "5 SBU",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES AMBATO\"",
+  "Línea de servicios": "Penal ",
+  "Estado de la causa derivada": "No cumple con la normativa"
+ },
+ {
+  "#": 8,
+  "Provincias": "ESMERALDAS",
+  "CIUDAD": "ARCHIDONA",
+  "PAIS DE ORIGEN": "ANTIGUA Y BARBUDA",
+  "Meses": "AGOSTO",
+  "Año": 2017,
+  "INSTRUCCIÓN": "Sin Instrucción formal",
+  "OCUPACION": "Trabajador no remunerado",
+  "Materias": "Tierras",
+  "SERVICIOS FAMILIA": "Declaración de adoptabilidad",
+  "Etnia:": "Cayapas",
+  "Nivel de ingresos": "> 5 SBU",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Internacional del Ecuador \"Loja\"",
+  "Línea de servicios": "Tierras",
+  "Estado de la causa derivada": "Tramitado en mediación"
+ },
+ {
+  "#": 9,
+  "Provincias": "GALÁPAGOS",
+  "CIUDAD": "ARENILLAS",
+  "PAIS DE ORIGEN": "ANTILLAS NEERLANDESAS",
+  "Meses": "SEPTIEMBRE",
+  "Año": 2018,
+  "OCUPACION": "Socio",
+  "Materias": "Administrativo",
+  "SERVICIOS FAMILIA": "Divorcio por mutuo consentimiento",
+  "Etnia:": "Achuar",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES TULCÁN\"",
+  "Línea de servicios": "Administrativo"
+ },
+ {
+  "#": 10,
+  "Provincias": "GUAYAS",
+  "CIUDAD": "ATACAMES",
+  "PAIS DE ORIGEN": "ARABIA SAUDI",
+  "Meses": "OCTUBRE",
+  "Año": 2019,
+  "Materias": "Violencia Intrafamiliar",
+  "SERVICIOS FAMILIA": "Medidas de Protección ",
+  "Etnia:": "Andoa",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES LATACUNGA\"",
+  "Línea de servicios": "Otros"
+ },
+ {
+  "#": 11,
+  "Provincias": "IMBABURA",
+  "CIUDAD": "ATUNTAQUI",
+  "PAIS DE ORIGEN": "ARGELIA",
+  "Meses": "NOVIEMBRE",
+  "Año": 2020,
+  "Materias": "Ejecución de la pena",
+  "SERVICIOS FAMILIA": "Paternidad y alimentos",
+  "Etnia:": "Awá",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica. Sede Quito",
+  "Línea de servicios": "Violencia Intrafamiliar"
+ },
+ {
+  "#": 12,
+  "Provincias": "LOJA",
+  "CIUDAD": "AZOGUES",
+  "PAIS DE ORIGEN": "ARGENTINA",
+  "Meses": "DICIEMBRE",
+  "Año": 2021,
+  "Materias": "Otros",
+  "SERVICIOS FAMILIA": "Paternidad y alimentos internacionales.",
+  "Etnia:": "Tsáchilas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES IBARRA\"",
+  "Línea de servicios": "Ejecución de la pena"
+ },
+ {
+  "#": 13,
+  "Provincias": "LOS RÍOS",
+  "CIUDAD": "BABA",
+  "PAIS DE ORIGEN": "ARMENIA",
+  "Año": 2022,
+  "Materias": "Seguros SPAAT",
+  "SERVICIOS FAMILIA": "Recuperación Internacional de niños, niñas y adolescentes ",
+  "Etnia:": "Huaoranis",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Hemisferios"
+ },
+ {
+  "#": 14,
+  "Provincias": "MANABÍ",
+  "CIUDAD": "BABAHOYO",
+  "PAIS DE ORIGEN": "ARUBA",
+  "Año": 2023,
+  "SERVICIOS FAMILIA": "Régimen de visitas",
+  "Etnia:": "Kitu Kara (Quitus)",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Especialidades Espíritu Santo"
+ },
+ {
+  "#": 15,
+  "Provincias": "MORONA SANTIAGO",
+  "CIUDAD": "BAEZA",
+  "PAIS DE ORIGEN": "AUSTRALIA",
+  "Año": 2024,
+  "SERVICIOS FAMILIA": "Régimen de visitas internacional",
+  "Etnia:": "0Huancavilcas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Pontificia Universidad Católica del Ecuador. Sede Ibarra"
+ },
+ {
+  "#": 16,
+  "Provincias": "NAPO",
+  "CIUDAD": "BAHIA DE CARAQUEZ",
+  "PAIS DE ORIGEN": "AUSTRIA",
+  "Año": 2025,
+  "SERVICIOS FAMILIA": "Custodias Familiares",
+  "Etnia:": "Cofanes",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica ECOTEC"
+ },
+ {
+  "#": 17,
+  "Provincias": "ORELLANA",
+  "CIUDAD": "BALAO",
+  "PAIS DE ORIGEN": "AZERBAIYAN",
+  "Año": 2026,
+  "SERVICIOS FAMILIA": "Acogimiento Institucional",
+  "Etnia:": "Pastos",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Cuenca \"Gerardo Cordero y León\""
+ },
+ {
+  "#": 18,
+  "Provincias": "PASTAZA",
+  "CIUDAD": "BALSAS",
+  "PAIS DE ORIGEN": "BAHAMAS",
+  "Año": 2027,
+  "SERVICIOS FAMILIA": "Restitución de niños, niñas y adolescentes",
+  "Etnia:": "Shiwiar",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Católica de Cuenca. Sede Azogues"
+ },
+ {
+  "#": 19,
+  "Provincias": "PICHINCHA",
+  "CIUDAD": "BALZAR",
+  "PAIS DE ORIGEN": "BAHREIN",
+  "Año": 2028,
+  "SERVICIOS FAMILIA": "Divorcio por mutuo consentimiento",
+  "Etnia:": "Secoyas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad San Francisco de Quito"
+ },
+ {
+  "#": 20,
+  "Provincias": "SANTA ELENA",
+  "CIUDAD": "BAÑOS DE AGUA SANTA",
+  "PAIS DE ORIGEN": "BANGLADESH",
+  "Año": 2029,
+  "SERVICIOS FAMILIA": "Detenido por boleta de apremio",
+  "Etnia:": "Siona",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES SANTO DOMINGO\""
+ },
+ {
+  "#": 21,
+  "Provincias": "SANTO DOMINGO DE LOS TSÁCHILAS",
+  "CIUDAD": "BIBLIAN",
+  "PAIS DE ORIGEN": "BARBADOS",
+  "Año": 2030,
+  "SERVICIOS FAMILIA": "Curadurías especiales",
+  "Etnia:": "Zápara",
+  "CJGA": "Consultorio Jurídico Gratuito \"Sucumbíos Solidario\" del Gobierno Autónomo Descentralizado de la Provincia de Sucumbíos"
+ },
+ {
+  "#": 22,
+  "Provincias": "SUCUMBÍOS",
+  "CIUDAD": "BOLIVAR",
+  "PAIS DE ORIGEN": "BELARUS",
+  "SERVICIOS FAMILIA": "Divorcio por causal",
+  "Etnia:": "Épera",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES PUYO\""
+ },
+ {
+  "#": 23,
+  "Provincias": "TUNGURAHUA",
+  "CIUDAD": "CALCETA",
+  "PAIS DE ORIGEN": "BELGICA",
+  "SERVICIOS FAMILIA": "Disolución de unión de hecho",
+  "Etnia:": "Paltas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Las Américas \"Centro Integral de Asesoría Legal CIAL\""
+ },
+ {
+  "#": 24,
+  "Provincias": "ZAMORA CHINCHIPE",
+  "CIUDAD": "CALUMA",
+  "PAIS DE ORIGEN": "BELICE",
+  "SERVICIOS FAMILIA": "Liquidación de alimentos",
+  "Etnia:": "Mantas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica Particular de Loja \"CENARC\""
+ },
+ {
+  "CIUDAD": "CAMILO PONCE ENRIQUEZ",
+  "PAIS DE ORIGEN": "BENIN",
+  "SERVICIOS FAMILIA": "Escrito",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Laica Vicente Rocafuerte \"Ab. Alfonso Leonidas Aguilar Álava\""
+ },
+ {
+  "CIUDAD": "CAÑAR",
+  "PAIS DE ORIGEN": "BERMUDAS",
+  "SERVICIOS FAMILIA": "Tenencia",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Católica de Cuenca. Sede La Troncal"
+ },
+ {
+  "SERVICIOS FAMILIA": "Alimentos para adulto mayor",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica de Machala"
+ },
+ {
+  "CIUDAD": "CARIAMANGA",
+  "PAIS DE ORIGEN": "BHUTAN",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES RIOBAMBA\""
+ },
+ {
+  "CIUDAD": "CARLOS JULIO AROSEMENA TOLA",
+  "PAIS DE ORIGEN": "BOLIVIA",
+  "SERVICIOS FAMILIA": "SERVICIOS LABORAL",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Central del Ecuador"
+ },
+ {
+  "CIUDAD": "CATACOCHA",
+  "PAIS DE ORIGEN": "BOSNIA Y HERZEGOVINA",
+  "SERVICIOS FAMILIA": "Audiencias de Oficio",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes  \"UNIANDES QUEVEDO\""
+ },
+ {
+  "CIUDAD": "CATAMAYO (LA TOMA)",
+  "PAIS DE ORIGEN": "BOTSUANA",
+  "SERVICIOS FAMILIA": "Conciliación",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Católica Santiago de Guayaquil \"Dra. Mariana Argudo Chejín\""
+ },
+ {
+  "CIUDAD": "CATARAMA",
+  "PAIS DE ORIGEN": "BRASIL",
+  "SERVICIOS FAMILIA": "Demanda",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES SALASACA\""
+ },
+ {
+  "CIUDAD": "CAYAMBE",
+  "PAIS DE ORIGEN": "BRUNEI",
+  "SERVICIOS FAMILIA": "Denuncias",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Internacional del Ecuador \"Quito\""
+ },
+ {
+  "CIUDAD": "CELICA",
+  "PAIS DE ORIGEN": "BULGARIA",
+  "SERVICIOS FAMILIA": "Denuncias MT",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Otavalo"
+ },
+ {
+  "CIUDAD": "CEVALLOS",
+  "PAIS DE ORIGEN": "BURKINA FASO",
+  "SERVICIOS FAMILIA": "Desahucio",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Regional Autónoma de los Andes \"UNIANDES BABAHOYO\""
+ },
+ {
+  "CIUDAD": "CHAGUARPAMBA",
+  "PAIS DE ORIGEN": "BURUNDI",
+  "SERVICIOS FAMILIA": "Escrito",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad del Azuay"
+ },
+ {
+  "CIUDAD": "CHAMBO",
+  "PAIS DE ORIGEN": "CABO VERDE",
+  "SERVICIOS FAMILIA": "Visto bueno",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Metropolitana. Sede \"Colinas del Norte\""
+ },
+ {
+  "CIUDAD": "CHILLA",
+  "PAIS DE ORIGEN": "CAMBOYA",
+  "SERVICIOS FAMILIA": "Despido intempestivo",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Metropolitana. Sede Quito  \"Vozandes\""
+ },
+ {
+  "CIUDAD": "CHILLANES",
+  "PAIS DE ORIGEN": "CAMERUN",
+  "SERVICIOS FAMILIA": "Investigación integral de las empresas",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica Luis Vargas Torres"
+ },
+ {
+  "CIUDAD": "CHONE",
+  "PAIS DE ORIGEN": "CANADA",
+  "SERVICIOS FAMILIA": "Accidentes laborales ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Católica de Cuenca \"Alberto Cordero Tamariz\""
+ },
+ {
+  "CIUDAD": "CHORDELEG",
+  "PAIS DE ORIGEN": "CHAD",
+  "SERVICIOS FAMILIA": "Reclamación de derechos sociales adquiridos",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Metropolitana. Sede Machala"
+ },
+ {
+  "CIUDAD": "CHUNCHI",
+  "PAIS DE ORIGEN": "REPUBLICA CHECA",
+  "SERVICIOS FAMILIA": "Despidos intempestivos",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Nacional de Loja"
+ },
+ {
+  "CIUDAD": "COLIMES",
+  "PAIS DE ORIGEN": "CHILE",
+  "SERVICIOS FAMILIA": "Jubilación patronal",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Nacional de Chimborazo \"UNACH\""
+ },
+ {
+  "CIUDAD": "CORONEL MARCELINO MARIDUEÑA (SAN CARLOS)",
+  "PAIS DE ORIGEN": "CHINA",
+  "SERVICIOS FAMILIA": "Impugnación de actas de finiquito",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Nacional de Chimborazo \"UNACH-CONAGOPARE\""
+ },
+ {
+  "CIUDAD": "COTACACHI",
+  "PAIS DE ORIGEN": "CHIPRE",
+  "SERVICIOS FAMILIA": "Cambio de ocupación del trabajo ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Nacional de Chimborazo \"Centro de privación de la libertad\""
+ },
+ {
+  "CIUDAD": "CUENCA",
+  "PAIS DE ORIGEN": "COLOMBIA",
+  "SERVICIOS FAMILIA": "Icumplimiento de contratos",
+  "CJGA": "Consultorio Jurídico Gratuito del Gobierno Autónomo Descentralizado Municipal del Cantón Atacames"
+ },
+ {
+  "CIUDAD": "CUMANDA",
+  "PAIS DE ORIGEN": "COMORAS",
+  "SERVICIOS FAMILIA": "Solicitud de boleta única",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Guayaquil \"Dra. Ketty Romoleroux Girón\""
+ },
+ {
+  "CIUDAD": "DAULE",
+  "PAIS DE ORIGEN": "CONGO",
+  "SERVICIOS FAMILIA": "Impugnación  por desahucios",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Laica Eloy Alfaro Manabí"
+ },
+ {
+  "CIUDAD": "DELEG",
+  "PAIS DE ORIGEN": "COREA DEL NORTE",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad de Guayaquil \"Dr. Edmundo Durán Díaz\""
+ },
+ {
+  "CIUDAD": "ECHEANDIA",
+  "PAIS DE ORIGEN": "COREA DEL SUR",
+  "SERVICIOS FAMILIA": "SERVICIOS TIERRAS",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Estatal Península de Santa Elena"
+ },
+ {
+  "CIUDAD": "EL ANGEL",
+  "PAIS DE ORIGEN": "COSTA DE MARFIL",
+  "SERVICIOS FAMILIA": "Legalización de tierras",
+  "CJGA": "Consultorio Jurídico Gratuito \"Casa de la Mujer y la Familia Dolores Intriago\" de la Dirección de Desarrollo Social del Gobierno Autónomo Municipal de Tena"
+ },
+ {
+  "CIUDAD": "EL CARMEN",
+  "PAIS DE ORIGEN": "COSTA RICA",
+  "SERVICIOS FAMILIA": "Oposición de tierras",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad del Pacífico"
+ },
+ {
+  "CIUDAD": "EL CHACO",
+  "PAIS DE ORIGEN": "CROACIA",
+  "SERVICIOS FAMILIA": "Servidumbre ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Pontificia Universidad Católica del Ecuador. Sede Ambato"
+ },
+ {
+  "CIUDAD": "EL CORAZON",
+  "PAIS DE ORIGEN": "CUBA",
+  "SERVICIOS FAMILIA": "Linderos",
+  "CJGA": "Consultorio Jurídico Gratuito del CEFAS - Patronato del GAPMS"
+ },
+ {
+  "CIUDAD": "EL DORADO DE CASCALES",
+  "PAIS DE ORIGEN": "DINAMARCA",
+  "SERVICIOS FAMILIA": "Reversión de tierras",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Estatal de Bolívar \"San Miguel\""
+ },
+ {
+  "CIUDAD": "EL GUABO",
+  "PAIS DE ORIGEN": "DOMINICA",
+  "SERVICIOS FAMILIA": "Adjudicación de tierras",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Metropolitana matriz Guayaquil"
+ },
+ {
+  "CIUDAD": "EL PAN",
+  "PAIS DE ORIGEN": "ECUADOR",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica Particular de Loja, sede Cuenca \"CENARC\""
+ },
+ {
+  "CIUDAD": "EL PANGUI",
+  "PAIS DE ORIGEN": "EGIPTO",
+  "SERVICIOS FAMILIA": "SERVICIOS CIVIL",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica Particular de Loja, sede Quito \"CENARC\""
+ },
+ {
+  "CIUDAD": "EL SALITRE (LAS RAMAS)",
+  "PAIS DE ORIGEN": "EL SALVADOR",
+  "SERVICIOS FAMILIA": "Amparos posesorios",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica Particular de Loja, sede Guayaquil \"CENARC\""
+ },
+ {
+  "CIUDAD": "EL TAMBO",
+  "PAIS DE ORIGEN": "EMIRATOS ARABES UNIDOS",
+  "SERVICIOS FAMILIA": "Prescripción adquisitiva de dominio",
+  "CJGA": "Consultorio Jurídico Gratuito del Consejo Cantonal de Protección de Derechos de Taisha"
+ },
+ {
+  "CIUDAD": "EL TRIUNFO",
+  "PAIS DE ORIGEN": "ERITREA",
+  "SERVICIOS FAMILIA": "Posesión efectiva ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Católica de Cuenca. Sede Tena"
+ },
+ {
+  "CIUDAD": "ELOY ALFARO (DURAN)",
+  "PAIS DE ORIGEN": "ESLOVAQUIA",
+  "SERVICIOS FAMILIA": "Escrito",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad  Católica de Cuenca. Sede Quito "
+ },
+ {
+  "CIUDAD": "ESMERALDAS",
+  "PAIS DE ORIGEN": "ESLOVENIA",
+  "SERVICIOS FAMILIA": "SERVICIOS CONSTITUCIONALES",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Central del Ecuador sede Guajaló"
+ },
+ {
+  "CIUDAD": "FLAVIO ALFARO",
+  "PAIS DE ORIGEN": "ESPAÑA",
+  "SERVICIOS FAMILIA": "Habeas Corpus",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica del Norte\n"
+ },
+ {
+  "CIUDAD": "GENERAL ANTONIO ELIZALDE (BUCAY)",
+  "PAIS DE ORIGEN": "ESTADOS UNIDOS",
+  "SERVICIOS FAMILIA": "Habeas Data",
+  "CJGA": "Consultorio Jurídico Gratuito del Gobierno Autónomo Descentralizado Municipal del Cantón Macará\n"
+ },
+ {
+  "CIUDAD": "GENERAL LEONIDAS PLAZA GUTIERREZ (LIMON)",
+  "PAIS DE ORIGEN": "ESTONIA",
+  "SERVICIOS FAMILIA": "Acción de protección",
+  "CJGA": "Consultorio Jurídico Gratuito \"Abogados Patrocinadores\" de la EP EMSEGURIDAD"
+ },
+ {
+  "CIUDAD": "GENERAL VILLAMIL (PLAYAS)",
+  "PAIS DE ORIGEN": "ETIOPIA",
+  "SERVICIOS FAMILIA": "Acción extraordinaria de protección",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica ECOTEC. Sede Samborondón "
+ },
+ {
+  "CIUDAD": "GIRON",
+  "PAIS DE ORIGEN": "FILIPINAS",
+  "SERVICIOS FAMILIA": "Medidas cautelares",
+  "CJGA": "Consultorio Jurídico Gratuito \"UTE- QUITO\" de la Universidad UTE"
+ },
+ {
+  "CIUDAD": "GONZANAMA",
+  "PAIS DE ORIGEN": "FINLANDIA",
+  "SERVICIOS FAMILIA": "Acción por incumplimiento",
+  "CJGA": "Consultorio Jurídico Gratuito \"STRICTO SENSU AEQUITAS\" de la Fundación Jurídica Stricto Sensu Aequitas"
+ },
+ {
+  "CIUDAD": "GUACHAPALA",
+  "PAIS DE ORIGEN": "FIYI",
+  "SERVICIOS FAMILIA": "Acceso a la Información",
+  "CJGA": "Consultorio Jurídico Gratuito CCPD-SD del Consejo Cantonal para la Protección de Derechos de Santo Domingo"
+ },
+ {
+  "SERVICIOS FAMILIA": "Acciones de control constitucional",
+  "CJGA": "Consultorio Jurídico Gratuito de Gobierno Autónomo Descentralizado Municipal del Cantón Catamayo"
+ },
+ {
+  "CIUDAD": "GUALACEO",
+  "PAIS DE ORIGEN": "FRANCIA",
+  "SERVICIOS FAMILIA": "Amicus Curiae",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Técnica de Manabí"
+ },
+ {
+  "CIUDAD": "GUALAQUIZA",
+  "PAIS DE ORIGEN": "GABON",
+  "SERVICIOS FAMILIA": "Acción de incumplimiento",
+  "CJGA": "Consultorio Jurídico Gratuito \"UNIB.E\" de la Universidad Iberoamericana del Ecuador"
+ },
+ {
+  "CIUDAD": "GUAMOTE",
+  "PAIS DE ORIGEN": "GAMBIA",
+  "SERVICIOS FAMILIA": "Acción pública de inconstitucionalidad",
+  "CJGA": " Consultorio Jurídico Gratuito del Gobierno Autónomo Descentralizado Municipal del Cantón Paltas "
+ },
+ {
+  "CIUDAD": "GUANO",
+  "PAIS DE ORIGEN": "GEORGIA",
+  "SERVICIOS FAMILIA": "SERVICIOS INQUILINATO",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Politécnica Salesiana \"Quito\" "
+ },
+ {
+  "CIUDAD": "GUARANDA",
+  "PAIS DE ORIGEN": "GHANA",
+  "SERVICIOS FAMILIA": "Desahucios inquilinato",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Politécnica Salesiana \"Cuenca\"  "
+ },
+ {
+  "CIUDAD": "GUAYAQUIL",
+  "PAIS DE ORIGEN": "GIBRALTAR",
+  "SERVICIOS FAMILIA": "Incumplimiento de contratos inquilinato",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Politécnica Salesiana \"Guayaquil\"  "
+ },
+ {
+  "CIUDAD": "GUAYZIMI",
+  "PAIS DE ORIGEN": "GRANADA",
+  "CJGA": "Consultorio Jurídico Gratuito \"Carlos Espinoza\" Fundación Metropolitana."
+ },
+ {
+  "CIUDAD": "HUACA",
+  "PAIS DE ORIGEN": "GRECIA",
+  "SERVICIOS FAMILIA": "SERVICIOS MOVILIDAD HUMANA",
+  "CJGA": "Consultorio Jurídico Gratuito de la Pontificia Universidad Católica de Ecuador. Sede Manabí"
+ },
+ {
+  "CIUDAD": "HUAMBOYA",
+  "PAIS DE ORIGEN": "GROELANDIA",
+  "SERVICIOS FAMILIA": "Refugio ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica \"Lago Agrio\""
+ },
+ {
+  "CIUDAD": "HUAQUILLAS",
+  "PAIS DE ORIGEN": "GUADALUPE",
+  "SERVICIOS FAMILIA": "Regularización del extranjero",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica \"Quinindé\""
+ },
+ {
+  "CIUDAD": "ISIDRO AYORA",
+  "PAIS DE ORIGEN": "GUAM",
+  "SERVICIOS FAMILIA": "Prevención de casos de apátridia",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica \"Babahoyo\""
+ },
+ {
+  "CIUDAD": "JAMA",
+  "PAIS DE ORIGEN": "GUATEMALA",
+  "SERVICIOS FAMILIA": "Deportación ",
+  "CJGA": "Consultorio Jurídico Gratuito de la Universidad Tecnológica Indoamérica \"Tena\""
+ },
+ {
+  "CIUDAD": "JARAMIJO",
+  "PAIS DE ORIGEN": "GUYANA FRANCESA",
+  "CJGA": "Consultorio Jurídico Gratuito de la Gobernación Provincial del Carchi"
+ },
+ {
+  "CIUDAD": "JIPIJAPA",
+  "PAIS DE ORIGEN": "GUINEA",
+  "SERVICIOS FAMILIA": "SERVICIOS VIF"
+ },
+ {
+  "CIUDAD": "JUNIN",
+  "PAIS DE ORIGEN": "GUINEA-BISSAU",
+  "SERVICIOS FAMILIA": "Violencia intrafamiliar"
+ },
+ {
+  "CIUDAD": "LA BONITA",
+  "PAIS DE ORIGEN": "GUINEA ECUATORIAL",
+  "SERVICIOS FAMILIA": "Denuncias de VIF"
+ },
+ {
+  "CIUDAD": "LA CONCORDIA",
+  "PAIS DE ORIGEN": "GUYANA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LA JOYA DE LOS SACHAS",
+  "PAIS DE ORIGEN": "HAITI",
+  "SERVICIOS FAMILIA": "SERVICIOS TRAMITES ADMINISTRATIVOS",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LA LIBERTAD",
+  "PAIS DE ORIGEN": "HONDURAS",
+  "SERVICIOS FAMILIA": "Trámite administrativo ",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LA MANA",
+  "PAIS DE ORIGEN": "HONG KONG",
+  "SERVICIOS FAMILIA": "Proceso Sancionatorio",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LA TRONCAL",
+  "PAIS DE ORIGEN": "HUNGRIA",
+  "SERVICIOS FAMILIA": "Peticiones al Ministerio Coordinador de Desarrollo Social",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LA VICTORIA",
+  "PAIS DE ORIGEN": "INDIA",
+  "SERVICIOS FAMILIA": "Peticiones a la Defensoría del Pueblo",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LAS NAVES",
+  "PAIS DE ORIGEN": "INDONESIA",
+  "SERVICIOS FAMILIA": "Peticiones al Instituto Ecuatoriano de Seguridad Social",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LATACUNGA",
+  "PAIS DE ORIGEN": "IRAN",
+  "SERVICIOS FAMILIA": "Petición a GAD's",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LOGROÑO",
+  "PAIS DE ORIGEN": "IRAQ",
+  "SERVICIOS FAMILIA": "Sanciones Disciplinarias",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LOJA",
+  "PAIS DE ORIGEN": "IRLANDA",
+  "SERVICIOS FAMILIA": "Peticiones a EP",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LOMAS DE SARGENTILLO",
+  "PAIS DE ORIGEN": "ISLANDIA",
+  "SERVICIOS FAMILIA": "Acceso y manejo de aguas",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "LORETO",
+  "PAIS DE ORIGEN": "ISLA NORFOLK",
+  "SERVICIOS FAMILIA": "Peticiones",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MACARA",
+  "PAIS DE ORIGEN": "ISLAS ALAND",
+  "SERVICIOS FAMILIA": "Trámites registral",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MACAS",
+  "PAIS DE ORIGEN": "ISLAS CAIMAN",
+  "SERVICIOS FAMILIA": "Trámites notariales",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MACHACHI",
+  "PAIS DE ORIGEN": "ISLAS COCOS",
+  "SERVICIOS FAMILIA": "Derecho Administrativo",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MACHALA",
+  "PAIS DE ORIGEN": "ISLAS COOK",
+  "SERVICIOS FAMILIA": "Procesos institucionales internos en etapa administrativa",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MANTA",
+  "PAIS DE ORIGEN": "ISLAS FEROE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MARCABELI",
+  "PAIS DE ORIGEN": "ISLAS MALVINAS",
+  "SERVICIOS FAMILIA": "SERVICIOS PENAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MERA",
+  "PAIS DE ORIGEN": "ISLAS MARIANAS DEL NORTE",
+  "SERVICIOS FAMILIA": "Audiencia de Flagrancia",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MILAGRO",
+  "PAIS DE ORIGEN": "ISLAS MARSHALL",
+  "SERVICIOS FAMILIA": "Acoso sexual",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MIRA (CHONTAHUASI)",
+  "PAIS DE ORIGEN": "ISRAEL",
+  "SERVICIOS FAMILIA": "Inseminación no consentida",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MOCACHE",
+  "PAIS DE ORIGEN": "ITALIA",
+  "SERVICIOS FAMILIA": "Distribución de material pornográfico a niñas, niños y adolescentes",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MOCHA",
+  "PAIS DE ORIGEN": "JAMAICA",
+  "SERVICIOS FAMILIA": "Corrupción de niñas, niños y adolescentes",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MONTALVO",
+  "PAIS DE ORIGEN": "JAPON",
+  "SERVICIOS FAMILIA": "Utilización de personas para exhibición pública con fines de naturales sexual",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MONTECRISTI",
+  "PAIS DE ORIGEN": "JORDANIA",
+  "SERVICIOS FAMILIA": "Contacto con finalidad sexual con menores de dieciocho años por medios electrónicos",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "MUISNE",
+  "PAIS DE ORIGEN": "KAZAJSTAN",
+  "SERVICIOS FAMILIA": "Privación forzada de capacidad de reproducción",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NABON",
+  "PAIS DE ORIGEN": "KENIA",
+  "SERVICIOS FAMILIA": "Oferta de servicios sexuales con menores de dieciocho años por medios electrónicos",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NARANJAL",
+  "PAIS DE ORIGEN": "KIRGUISTAN",
+  "SERVICIOS FAMILIA": "Violación",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NARANJITO",
+  "PAIS DE ORIGEN": "KIRIBATI",
+  "SERVICIOS FAMILIA": "Estupro",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NARCISA DE JESUS",
+  "PAIS DE ORIGEN": "KUWAIT",
+  "SERVICIOS FAMILIA": "Abuso sexual",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NUEVA LOJA",
+  "PAIS DE ORIGEN": "LAOS",
+  "SERVICIOS FAMILIA": "Patrocinio",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "NUEVO ROCAFUERTE",
+  "PAIS DE ORIGEN": "LESOTHO",
+  "SERVICIOS FAMILIA": "Contravención",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "OLMEDO",
+  "PAIS DE ORIGEN": "LETONIA",
+  "SERVICIOS FAMILIA": "Delito",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "OLMEDO",
+  "PAIS DE ORIGEN": "LIBANO",
+  "SERVICIOS FAMILIA": "SERVICIOS EJECUCIÓN DE LA PENA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "OTAVALO",
+  "PAIS DE ORIGEN": "LIBERIA",
+  "SERVICIOS FAMILIA": "Cambio de Régimen",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PABLO SEXTO",
+  "PAIS DE ORIGEN": "LIBIA",
+  "SERVICIOS FAMILIA": "Reducción de Pena",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PACCHA",
+  "PAIS DE ORIGEN": "LIECHTENSTEIN",
+  "SERVICIOS FAMILIA": "Libertad Controlada",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PAJAN",
+  "PAIS DE ORIGEN": "LITUANIA",
+  "SERVICIOS FAMILIA": "Prelibertad",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PALANDA",
+  "PAIS DE ORIGEN": "LUXEMBURGO",
+  "SERVICIOS FAMILIA": "Revisión de Sentencia",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PALENQUE",
+  "PAIS DE ORIGEN": "MACAO",
+  "SERVICIOS FAMILIA": "Otros ejecución de la pena",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PALESTINA",
+  "PAIS DE ORIGEN": "MADAGASCAR",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PALLATANGA",
+  "PAIS DE ORIGEN": "MALASIA",
+  "SERVICIOS FAMILIA": "Otros",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PALORA (METZERA)",
+  "PAIS DE ORIGEN": "MALAWI",
+  "SERVICIOS FAMILIA": "Mediación",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PAQUISHA",
+  "PAIS DE ORIGEN": "MALDIVAS",
+  "SERVICIOS FAMILIA": "Seguros ",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PASAJE",
+  "PAIS DE ORIGEN": "MALI",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PATATE",
+  "PAIS DE ORIGEN": "MALTA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PAUTE",
+  "PAIS DE ORIGEN": "MARRUECOS",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PEDERNALES",
+  "PAIS DE ORIGEN": "MARTINICA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PEDRO CARBO",
+  "PAIS DE ORIGEN": "MAURICIO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PEDRO VICENTE MALDONADO",
+  "PAIS DE ORIGEN": "MAURITANIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PELILEO",
+  "PAIS DE ORIGEN": "MAYOTTE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PENIPE",
+  "PAIS DE ORIGEN": "MEXICO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PICHINCHA",
+  "PAIS DE ORIGEN": "MICRONESIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PILLARO",
+  "PAIS DE ORIGEN": "MOLDOVA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PIMAMPIRO",
+  "PAIS DE ORIGEN": "MONACO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PINDAL",
+  "PAIS DE ORIGEN": "MONGOLIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PIÑAS",
+  "PAIS DE ORIGEN": "MONTENEGRO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PORTOVELO",
+  "PAIS DE ORIGEN": "MONTSERRAT",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PORTOVIEJO",
+  "PAIS DE ORIGEN": "MOZAMBIQUE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUCARA",
+  "PAIS DE ORIGEN": "MYANMAR",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUEBLOVIEJO",
+  "PAIS DE ORIGEN": "NAMIBIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO AYORA",
+  "PAIS DE ORIGEN": "NAURU",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO BAQUERIZO MORENO",
+  "PAIS DE ORIGEN": "NEPAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO EL CARMEN DEL PUTUMAYO",
+  "PAIS DE ORIGEN": "NICARAGUA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO FRANCISCO DE ORELLANA (EL COCA)",
+  "PAIS DE ORIGEN": "NIGER",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO LOPEZ",
+  "PAIS DE ORIGEN": "NIGERIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO QUITO",
+  "PAIS DE ORIGEN": "NIUE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUERTO VILLAMIL",
+  "PAIS DE ORIGEN": "NORUEGA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUJILI",
+  "PAIS DE ORIGEN": "NUEVA CALEDONIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "PUYO",
+  "PAIS DE ORIGEN": "NUEVA ZELANDA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "QUERO",
+  "PAIS DE ORIGEN": "OMAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "QUEVEDO",
+  "PAIS DE ORIGEN": "HOLANDA \/ PAISES BAJOS",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "QUILANGA",
+  "PAIS DE ORIGEN": "PAKISTAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "QUINSALOMA",
+  "PAIS DE ORIGEN": "PALAOS",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "QUITO",
+  "PAIS DE ORIGEN": "PANAMA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "RIOBAMBA",
+  "PAIS DE ORIGEN": "PAPUA NUEVA GUINEA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "RIOVERDE",
+  "PAIS DE ORIGEN": "PARAGUAY",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ROCAFUERTE",
+  "PAIS DE ORIGEN": "PERU",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ROSA ZARATE (QUININDE)",
+  "PAIS DE ORIGEN": "POLINESIA FRANCESA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SALINAS",
+  "PAIS DE ORIGEN": "POLINIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAMBORONDON",
+  "PAIS DE ORIGEN": "PORTUGAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN FELIPE DE OÑA",
+  "PAIS DE ORIGEN": "PUERTO RICO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN FERNANDO",
+  "PAIS DE ORIGEN": "QATAR",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN GABRIEL",
+  "PAIS DE ORIGEN": "REINO UNIDO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN JACINTO DE BUENA FE",
+  "PAIS DE ORIGEN": "REPUBLICA CENTROAFRICANA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN JACINTO DE YAGUACHI",
+  "PAIS DE ORIGEN": "REPUBLICA DEMOCRATICA DEL GONGO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN JOSE DE CHIMBO",
+  "PAIS DE ORIGEN": "REPUBLICA DOMINICANA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN JUAN BOSCO",
+  "PAIS DE ORIGEN": "REUNION",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN LORENZO",
+  "PAIS DE ORIGEN": "RUANDA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN MIGUEL",
+  "PAIS DE ORIGEN": "RUMANIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN MIGUEL DE IBARRA",
+  "PAIS DE ORIGEN": "RUSIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN MIGUEL DE LOS BANCOS",
+  "PAIS DE ORIGEN": "SAHARA OCCIDENTAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN MIGUEL DE SALCEDO",
+  "PAIS DE ORIGEN": "SAMOA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAN VICENTE",
+  "PAIS DE ORIGEN": "SAMOA AMERICANA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANGOLQUI",
+  "PAIS DE ORIGEN": "SAN CRISTOBAL Y NIEVES",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA ANA DE VUELTA LARGA",
+  "PAIS DE ORIGEN": "SAN MARINO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA CLARA",
+  "PAIS DE ORIGEN": "SAN PEDRO Y MIQUELON",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA ELENA",
+  "PAIS DE ORIGEN": "SANTA ELENA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA ISABEL (CHAGUARURCO)",
+  "PAIS DE ORIGEN": "SANTA LUCIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA LUCIA",
+  "PAIS DE ORIGEN": "SANTA SEDE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTA ROSA",
+  "PAIS DE ORIGEN": "SANTO TOME Y PRINCIPE",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTIAGO",
+  "PAIS DE ORIGEN": "SAN VICENTE Y LAS GRANADINAS",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTIAGO DE MENDEZ",
+  "PAIS DE ORIGEN": "SENEGAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SANTO DOMINGO ",
+  "PAIS DE ORIGEN": "SERBIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SAQUISILI",
+  "PAIS DE ORIGEN": "SEYCHELLES",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SARAGURO",
+  "PAIS DE ORIGEN": "SIERRA LEONA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SEVILLA DE ORO",
+  "PAIS DE ORIGEN": "SINGAPUR",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SHUSHUFINDI",
+  "PAIS DE ORIGEN": "SIRIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SIGCHOS",
+  "PAIS DE ORIGEN": "SOMALIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SIGSIG",
+  "PAIS DE ORIGEN": "SRI LANKA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SIMON BOLIVAR",
+  "PAIS DE ORIGEN": "SUAZILANDIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SOZORANGA",
+  "PAIS DE ORIGEN": "SUDAFRICA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SUCRE",
+  "PAIS DE ORIGEN": "SUDAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SUCUA",
+  "PAIS DE ORIGEN": "SUECIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "SUSCAL",
+  "PAIS DE ORIGEN": "SUIZA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TABACUNDO",
+  "PAIS DE ORIGEN": "SURINAM",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TAISHA",
+  "PAIS DE ORIGEN": "SVALBARD Y SAN MAYEN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TARAPOA",
+  "PAIS DE ORIGEN": "TAILANDIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TENA",
+  "PAIS DE ORIGEN": "TAIWAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TISALEO",
+  "PAIS DE ORIGEN": "TANZANIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TOSAGUA",
+  "PAIS DE ORIGEN": "TAYIKISTAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "TULCAN",
+  "PAIS DE ORIGEN": "TIMOR ORIENTAL",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "URCUQUI",
+  "PAIS DE ORIGEN": "TOGO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VALDEZ (LIMONES)",
+  "PAIS DE ORIGEN": "TOKELAU",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VALENCIA",
+  "PAIS DE ORIGEN": "TONGA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VELASCO IBARRA (EL EMPALME)",
+  "PAIS DE ORIGEN": "TRINIDAD Y TOBAGO",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VENTANAS",
+  "PAIS DE ORIGEN": "TUNEZ",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VILLA LA UNION (CAJABAMBA)",
+  "PAIS DE ORIGEN": "TURKMENISTAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "VINCES",
+  "PAIS DE ORIGEN": "TURQUIA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "YANZATZA",
+  "PAIS DE ORIGEN": "TUVALU",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ZAMORA",
+  "PAIS DE ORIGEN": "URUGUAY",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ZAPOTILLO",
+  "PAIS DE ORIGEN": "UZBEKISTAN",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ZARUMA",
+  "PAIS DE ORIGEN": "VANUATU",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ZUMBA",
+  "PAIS DE ORIGEN": "VENEZUELA",
+  "CJGA": " "
+ },
+ {
+  "CIUDAD": "ZUMBI",
+  "PAIS DE ORIGEN": "VIETNAM",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "WALLIS Y FATUMA",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "YEMEN",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "YIBUTI",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "ZAMBIA",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "ZIMBABUE",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "UCRANIA",
+  "CJGA": " "
+ },
+ {
+  "PAIS DE ORIGEN": "UGANDA",
+  "CJGA": " "
+ },
+ {
+  "CJGA": " "
+ }
+]
